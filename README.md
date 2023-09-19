@@ -1,5 +1,5 @@
 # Challenge_15_Mapping
-MAping with HTML and JavaScript
+Maping with HTML and JavaScript
 
 # Background
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
@@ -23,8 +23,7 @@ Your first task is to visualise an earthquake dataset. Complete the following st
 
       - When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualisation. The following image is a sampling of earthquake data in JSON format:
         
-            ![image](https://github.com/VanHg33/Challenge_15_Mapping/assets/135322223/f34ad890-69c7-414c-8ce0-ec2f833e392b)
-
+           ![image](https://github.com/VanHg33/Challenge_15_Mapping/assets/135322223/bed1574a-dcfb-4d77-8667-fab5d501d1e6)
 
   2. Import and visualise the data by doing the following:
        - Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
